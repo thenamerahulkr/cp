@@ -1,0 +1,1 @@
+{"name":"Local: Bit++","url":"c:\\Users\\RAHUL KUMAR\\Desktop\\cp\\Bit++.cpp","tests":[{"id":1739547262175,"input":"1\n++X\n","output":"1\n"},{"id":1739547278031,"input":"2\nX++\n--X\n","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\RAHUL KUMAR\\Desktop\\cp\\Bit++.cpp","group":"local","local":true}
